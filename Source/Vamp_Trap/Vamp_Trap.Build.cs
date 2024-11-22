@@ -8,7 +8,7 @@ public class Vamp_Trap : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "WorldConditions", "SmartObjectsModule" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "WorldConditions", "SmartObjectsModule", "Slate"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
