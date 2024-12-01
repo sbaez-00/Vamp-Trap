@@ -10,6 +10,6 @@ public class Vamp_TrapTarget : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "Vamp_Trap" } );
+		ExtraModuleNames.AddRange( new string[] { "Vamp_Trap", "Core", "CoreUObject", "Engine", "InputCore", "WorldConditions", "SmartObjectsModule", "Slate" } );
 	}
 }

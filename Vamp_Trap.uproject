@@ -31,6 +31,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "WorldConditions",
+			"Enabled": true
+		},
+		{
 			"Name": "GameplayBehaviorSmartObjects",
 			"Enabled": true
 		},
